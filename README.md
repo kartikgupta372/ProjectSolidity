@@ -33,5 +33,5 @@ pragma solidity ^0.8.0;
  * - A conference issues NFTs as proof of attendance.
  * - A sports event provides collectible NFTs to ticket holders.
  * - A university gives digital certificates as NFTs.
- * 
+ * smart link-"0x1427690Fc9C0fE3d100970F79A07FB05Be1a5a8B"
  */
